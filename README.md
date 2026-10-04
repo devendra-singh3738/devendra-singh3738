@@ -1,5 +1,1 @@
-# Hi there 👋
-
-## 🧩 LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/DevendraSinghkshatriyaa?theme=dark&font=Karma)](https://leetcode.com/u/DevendraSinghkshatriyaa/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DevendraSinghkshatriyaa?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/DevendraSinghkshatriyaa/)
